@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "id": 80177488,
+    "name": "Quaoar",
+    "author": "Viprin",
+    "creators": ["Viprin & more"],
+    "verifier": "AeonAir",
+    "verification": "https://www.youtube.com/watch?v=oEek5SzE2Ms",
+    "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "zyluo",
+            "link": "https://www.youtube.com/watch?v=oEek5SzE2Ms",
             "percent": 100,
-            "hz": 360
+            "hz": 144
         }
     ]
 }
